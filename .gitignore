@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.uv-cache/
+.uv-python/
+
+# 本地运行时
+*.db
+*.log
